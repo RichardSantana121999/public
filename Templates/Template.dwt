@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Portal Web : </title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<link href="../css/style.css" rel="stylesheet" type="text/css" />
+<style>
+	/*Comentario*/
+	ol>lo:nth-child(3){
+		background-color: #4CAF50;
+		color: #fff;
+	}
+	/* <!-- Template-Editable --> */
+	</style>
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="FirmaOpcional" type="boolean" value="true" -->
+</head>
+
+<body>
+	<header>
+	<h1>Compáñia : MI NEGOCIO</h1>
+	</header>
+	
+<nav>
+	   <ol id="indice"> 
+		<li> <a href="Pagina7.html">Inicio</a></li>
+	    <li> <a href="Pagina8.html">Servicio</a></li>
+	    <li> <a href="Pagina9.html">Contacto</a></li>
+		   <li> <a href="Pagina10.html">Local</a></li>
+	   </ol>
+	</nav>
+    <!-- TemplateBeginEditable name="ContenidoPrincipal" -->
+	<section>
+	   CONTENIDO PRINCIPAL
+	</section>
+	<!-- TemplateEndEditable -->	
+<aside>
+		Publicidad
+	</aside>
+	<footer>
+	    Derechos reservados.
+    <!-- TemplateBeginIf cond="FirmaOpcional" -->    <br> <h4>u19221101@utp.edu.pe</h4>
+	<!-- TemplateEndIf --> 
+	</footer>
+</body>
+</html>
